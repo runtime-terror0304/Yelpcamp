@@ -1,0 +1,19 @@
+{
+  "name": "yelpcamp01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runtime-terror0304/Yelpcamp.git"
+  },
+  "author": "Rachit Puri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runtime-terror0304/Yelpcamp/issues"
+  },
+  "homepage": "https://github.com/runtime-terror0304/Yelpcamp#readme"
+}
